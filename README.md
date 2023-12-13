@@ -1,6 +1,19 @@
 # odin-recipes
 
-Greetings
-This site is a basic recipe site. The site displays my knowledge of HTML to date. The site consists of a main index page with a few links to recipes. It is beautiful in a brutalist type of way. 
+Greetings, the recipes site is a basic site exhibiting my knowledge of HTML to date. The site consists of a main page with a few links to recipes. 
 
-Love juuni
+COMPLETED ACTIONS
+- Create a new repo for the recipes project 
+- Moved repo to my local machine
+- Setup this README
+- Created new directories
+- Created .html files from scratch with boilerplates
+- Utilize links to link from the hompage to selected recipes
+- Ensure links open in new tabs 
+- Created ordered and unordered lists
+- Added favicons to each page's tab
+- Included descriptive alt text for accesibility and SEO  
+- Committed multiple iterations to github
+
+
+luv juuni
