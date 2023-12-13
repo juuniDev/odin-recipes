@@ -13,7 +13,7 @@ COMPLETED ACTIONS
 - Created ordered and unordered lists
 - Added favicons to each page's tab
 - Included descriptive alt text for accesibility and SEO  
-- Committed multiple iterations to github
+- Committed multiple iterations to github with proper commit msgs
 
 
 luv juuni
