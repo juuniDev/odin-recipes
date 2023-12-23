@@ -14,6 +14,7 @@ COMPLETED ACTIONS
 - Added favicons to each page's tab
 - Included descriptive alt text for accesibility and SEO  
 - Committed multiple iterations to github with proper commit msgs
+- Published site via github
 
 
 luv juuni

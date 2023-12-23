@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@1;200;800&display=swap');
+
+html{
+    
+}
+
+body {
+    margin: 2rem auto;
+    background-color: antiquewhite;
+    width: 800px;
+    align-items: center;
+    /* display: flexbox; */
+}
+
+h1 {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-color:burlywood;
+    color:antiquewhite;
+    margin-top: 0;
+}
+
+.recipe-card {
+    width: 800px;
+    border: 3px dotted darkorange;
+    padding: 10px;
+    position: relative;
+    height: 800;
+    width: 800;
+}
+
+
+
+.ingredients,
+.steps,
+.description {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size:;
+}
+
+
+
+h2 {
+    text-align: left;
+    padding: 10px 20px;
+    background-color: bisque;
+    font-size: 30px;
+    font-family: 'Ysabeau SC';
+    font-weight: 200;
+}
+
+
+
+.btn:hover{
+    background-color: antiquewhite;
+    color: darkorange;
+}
+
+.btn {
+    background-color:darkorange;
+    color: antiquewhite;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px auto;
+    display:inline-block;
+    font-size: 1.5rem;
+}
+
+.main-recipes {
+    font-size: 2rem;
+    list-style: none;
+}
+
+.welcome-page {
+    margin: 30px auto;
+    display: block;
+}
+
+header {
+    border-width: 5px;
+    border-color: aqua;
+}
+
+.nav-list {
+    display:flex;
+    
+    margin: 1em;
+    padding: .5em;
+    list-style: none;
+
+}
+
+.nav-list li {
+    list-style-type: none;
+    flex: 1 1 0;
+    font-size: 1.3em;
+    border: 5px;
+    border-color: aqua;
+
+}
